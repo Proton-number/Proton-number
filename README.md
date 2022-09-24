@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Favour Adebimpe
 
 - 🔭 I’m currently working on **building static landing page using HTML, CSS and Reactjs**
-- 🤔 I’m looking for help with **structure learning resource and reactjs buddies**
+- 🤔 I’m looking for help with **structure learning the indept of ReactJs with things like fetching web api with hooks and animation with framer-motion**
 - 💬 Ask me about **myself and what I do**
 
 <h3 align="left">How to reach me:</h3>
@@ -24,6 +24,6 @@
 
 <h3 align="left">My Stats</h3>
 
-![Ifeoluwah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifeoluwah21&theme=default&show_icons=true)
+![Proton-number's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proton-number&theme=default&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifeoluwah21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proton-number&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
