@@ -6,7 +6,7 @@ A Frontend Web Developer
 --------------------
 
 
-I'm proficient with building the user interfaces of websites and applications which will be functional, responsive, scalable and aesthetically pleasing to users.
+I try to  build  user interfaces of websites which will be functional, responsive, scalable and aesthetically pleasing to every user.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  Portfolio: Under Construction
