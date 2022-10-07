@@ -1,5 +1,5 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Favour
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Adebompe Favour
 ==============================================================================================================================
 
 A Frontend Web Developer 
@@ -34,7 +34,7 @@ I'm proficient with building the user interfaces of websites and applications wh
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
  <p align="left">
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+
 </p>
 
 
@@ -49,6 +49,6 @@ I'm proficient with building the user interfaces of websites and applications wh
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Proton-number"><img src="https://github-readme-stats.vercel.app/api?username=OmaJuliet&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OmaJuliet's GitHub stats" /></a>
+<a href="http://www.github.com/Proton-number"><img src="https://github-readme-stats.vercel.app/api?username=OmaJuliet&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Proton-number's GitHub stats" /></a>
 
 <a href="http://www.github.com/Proton-number"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Proton-number&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
