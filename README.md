@@ -53,7 +53,7 @@ I'm proficient with building the user interfaces of websites and applications wh
 ### Badges
 
 
-[![@julietoma's Holopin board](https://holopin.io/api/user/board?user=Proton-number)](https://www.holopin.io/@dacron)
+[![@Proton-number's Holopin board](https://holopin.io/api/user/board?user=Proton-number)](https://www.holopin.io/@dacron)
 
 
 
