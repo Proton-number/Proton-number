@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Favour
 ==============================================================================================================================
 
-A Web Developer 
+A Frontend Web Developer 
 --------------------
 
 
@@ -13,7 +13,7 @@ I'm proficient with building the user interfaces of websites and applications wh
 * ✉️  You can contact me at [email](mailto:favouradebimpe63@gmail.com)
 * 🧠  I'm learning React and improving my JavaScript skills
 * 🤝  I'm open to collaborating on projects. developers collab projects
-* 😇  Game lover, Tech Enthusiast
+* 😇  Game lover and anime lover too, Tech Enthusiast
 
 
 
@@ -53,12 +53,12 @@ I'm proficient with building the user interfaces of websites and applications wh
 ### Badges
 
 
-[![@julietoma's Holopin board](https://holopin.io/api/user/board?user=Proton-number)](https://holopin.io/@julietoma)
+[![@julietoma's Holopin board](https://holopin.io/api/user/board?user=Proton-number)](https://www.holopin.io/@dacron)
 
 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/OmaJuliet"><img src="https://github-readme-stats.vercel.app/api?username=Proton-number_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OmaJuliet's GitHub stats" /></a>
+<a href="https://github.com/Proton-number"><img src="https://github-readme-stats.vercel.app/api?username=Proton-number_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Proton-number's GitHub stats" /></a>
 
-<a href="http://www.github.com/OmaJuliet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Proton-number&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Proton-number"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Proton-number&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
