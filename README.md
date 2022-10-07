@@ -1,29 +1,64 @@
-# Hi there 👋, I'm Favour Adebimpe
 
-- 🔭 I’m currently working on **building static landing page using HTML, CSS and Reactjs**
-- 🤔 I’m looking for help with **structure learning the indept of ReactJs with things like fetching web api with hooks and animation with framer-motion**
-- 💬 Ask me about **myself and what I do**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Favour
+==============================================================================================================================
 
-<h3 align="left">How to reach me:</h3>
+A Web Developer 
+--------------------
+
+
+I'm proficient with building the user interfaces of websites and applications which will be functional, responsive, scalable and aesthetically pleasing to users.
+
+* 🌍  I'm based in Lagos, Nigeria
+* 🖥️  Portfolio: Under Construction
+* ✉️  You can contact me at [email](mailto:favouradebimpe63@gmail.com)
+* 🧠  I'm learning React and improving my JavaScript skills
+* 🤝  I'm open to collaborating on projects. developers collab projects
+* 😇  Game lover, Tech Enthusiast
+
+
+
+ ### Skills
 <p align="left">
-  <a href="https://www.linkedin.com/in/adebimpe-favour-5902a0240" title="linkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/ width="40" height="40"></a>
- 
-  <a href="mailto:favouradebimpe63@gmail.com" title="mail"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg" width="45" height="45"></a>
- </p>
-
- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="50" 
-  height="50"i/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+ <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
-<h3 align="left">My Stats</h3>
 
-![Proton-number's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proton-number&theme=default&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proton-number&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ TECH STACK
+ 
+ 
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+ <p align="left">
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+</p>
+
+
+
+
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/adebimpe-favour-5902a0240" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="http://www.medium.com/@JulietOma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+
+
+
+
+
+### Badges
+
+
+[![@julietoma's Holopin board](https://holopin.io/api/user/board?user=Proton-number)](https://holopin.io/@julietoma)
+
+
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/OmaJuliet"><img src="https://github-readme-stats.vercel.app/api?username=Proton-number_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OmaJuliet's GitHub stats" /></a>
+
+<a href="http://www.github.com/OmaJuliet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Proton-number&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
