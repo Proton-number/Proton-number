@@ -47,16 +47,6 @@ I'm proficient with building the user interfaces of websites and applications wh
 
 
 
-
-
-
-### Badges
-
-
-[![@Proton-number's Holopin board](https://holopin.io/api/user/board?user=Proton-number)](https://www.holopin.io/@dacron)
-
-
-
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/Proton-number"><img src="https://github-readme-stats.vercel.app/api?username=Proton-number_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Proton-number's GitHub stats" /></a>
