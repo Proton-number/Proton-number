@@ -21,22 +21,6 @@ I try to  build  user interfaces of websites which will be functional, responsiv
 
 
 
- TECH STACK
- 
- 
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
- <p align="left">
-
-</p>
-
-
-
-
-### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/adebimpe-favour-5902a0240" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 
 
