@@ -8,12 +8,6 @@ A Frontend Web Developer
 
 I try to  build  user interfaces of websites which will be functional, responsive, scalable and aesthetically pleasing to every user. Recently transitioning slowly to a full stack developer with tools like Firebase and Sanity as a cms and database tool
 
-* 🌍  I'm based in Lagos, Nigeria
-* 🖥️  Portfolio: (https://proton-numba.netlify.app/)
-* ✉️  You can contact me at [email](mailto:favouradebimpe63@gmail.com)
-* 🧠  I'm learning React and improving my JavaScript skills
-* 🤝  I'm open to collaborating on projects. developers collab projects
-* 😇  Game lover and anime lover too, Tech Enthusiast
 
 
 
